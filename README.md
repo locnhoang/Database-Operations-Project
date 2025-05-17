@@ -1,1 +1,2 @@
 # Database-Operations-Project
+Associated with CSE 4701, I created a python script that utilizes mysql.connector to write queries and make changes to a mock company database in MySQL. This program allows users to lock records for updating in order to add/remove/modify employees, dependents, and departments. Users can also have their changes saved after every operation and a menu is used to do multiple database operations as needed.
